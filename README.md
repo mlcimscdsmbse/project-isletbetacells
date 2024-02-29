@@ -88,6 +88,15 @@ findings in the previous dataset. The tasks for the project are as follows:
    confirm the existence of the regulation between “d” and “y”? Can you spot any
    relevant flaws or limitations of our data or the analysis? Justify your claims.
 
+## Deliverables
+
+You should write your analysis in an R Markdown or Python notebook, interwining
+text and code to facilitate the understanding of the analysis steps and their
+reproducibility. You should include the HTML output file of that notebook, along
+with all the files involved in the analysis. The HTML output should show at the
+top a front matter including the title of the project, the names of the authors
+and the date. Failing in any of these formal aspects will penalize the grade.
+
 ## Submission procedure
 
 This project has to be submitted using
