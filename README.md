@@ -1,4 +1,4 @@
-# Fake sources project
+# Islet beta cells project
 
 ### Machine Learning and Causal Inference. MSc in Data Science Methodology. Barcelona School of Economics.
 
